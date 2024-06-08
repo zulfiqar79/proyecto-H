@@ -1,0 +1,20 @@
+/* esto es para todos los elementos el * */
+/* es selector universal */
+* {
+    margin:0;
+    padding: 0;
+}
+
+h3{
+    background-color: yellow;
+    color:blue;
+}
+
+/* selecionar etiqueta por clase */
+.alert{
+    color: yellow;
+}
+
+#Tendencia{
+    background-color: grey;
+}
